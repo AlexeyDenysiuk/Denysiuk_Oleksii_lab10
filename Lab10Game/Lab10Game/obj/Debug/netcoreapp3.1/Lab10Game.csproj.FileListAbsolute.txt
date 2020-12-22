@@ -1,0 +1,13 @@
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\bin\Debug\netcoreapp3.1\Lab10Game.exe
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\bin\Debug\netcoreapp3.1\Lab10Game.deps.json
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\bin\Debug\netcoreapp3.1\Lab10Game.runtimeconfig.json
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\bin\Debug\netcoreapp3.1\Lab10Game.runtimeconfig.dev.json
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\bin\Debug\netcoreapp3.1\Lab10Game.dll
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\bin\Debug\netcoreapp3.1\Lab10Game.pdb
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.csprojAssemblyReference.cache
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.dll
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.pdb
+C:\Users\Alexey\Desktop\Универ\ОП ДЗ\Lab10Game\Lab10Game\obj\Debug\netcoreapp3.1\Lab10Game.genruntimeconfig.cache
